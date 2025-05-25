@@ -1,5 +1,8 @@
-function Home(){
-    return <h1>   ***Subirosdoistiozin!!!***   </h1>
+function Home() {
+  return <h1> ***Subirosdoistiozin!!!*** </h1>;
 }
- 
-export default Home; 
+function teste() {
+  console.log("indentação errada");
+}
+
+export default Home;
